@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/cover.jpg" alt="Cover" width="100%" height="150px" style="object-fit: cover; border-radius: 10px;" />
+  <img src="img/cover.jpg" alt="Cover" width="100%" height="175px" style="object-fit: cover; border-radius: 10px;" />
 </p>
 
 # 💫 Hi I'm ThenG :
