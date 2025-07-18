@@ -1,4 +1,7 @@
-![Cover](cover.jpg)
+<p align="center">
+  <img src="cover.jpg" alt="Cover" width="100%" style="border-radius: 10px;" />
+</p>
+
 
 # 💫 Hi I'm ThenG :
 I'm a passionate and self-motivated IT engineering student at RUPP with a strong interest in software development, problem-solving, and team collaboration. I enjoy exploring new technologies, building creative projects, and continuously improving my skills through hands-on experience. My goal is to contribute meaningfully to real-world projects and grow as a professional in the tech industry.
