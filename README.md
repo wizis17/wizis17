@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="cover.jpg" alt="Cover" width="50%" style="border-radius: 10px;" />
+  <img src="cover.jpg" alt="Cover" width="100%" style="border-radius: 20px;" />
 </p>
 
 
