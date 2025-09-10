@@ -9,7 +9,6 @@ I'm a passionate and self-motivated IT engineering student at RUPP with a strong
 
 # 💌 Follow and Contact Me :
 - **Email :** tangkavtheng@gamil.com 
-- **GitHub :** [https://github.com/wizis17](https://github.com/wizis17)
 - **LinkedIn :** [https://linkedin.com/in/tang-kavtheng-3a6b30362](https://linkedin.com/in/tang-kavtheng-3a6b30362)
 - **Facebook :** [https://facebook.com/theng.profile](https://www.facebook.com/na.theng.549)
 
