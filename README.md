@@ -77,9 +77,9 @@ I'm a passionate and self-motivated **IT engineering** student at **RUPP** with 
 
 
 # 💌 Follow and Contact Me 
-- **Email :** tangkavtheng@gamil.com 
-- **LinkedIn :** [https://linkedin.com/in/tang-kavtheng-3a6b30362](https://linkedin.com/in/tang-kavtheng-3a6b30362)
-- **Facebook :** [https://facebook.com/theng.profile](https://www.facebook.com/na.theng.549)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tangkavtheng@gamil.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tang-kavtheng-3a6b30362)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/na.theng.549)
 
 # 📊 GitHub Stats
 
