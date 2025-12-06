@@ -1,6 +1,6 @@
 ![cover](img/cover2.jpg)
 
-# -忍- Hi I'm ThenG
+# -忍- Hi I'm ThenG /🪙
 I'm a passionate and self-motivated **IT engineering** student at **RUPP** with a strong interest in software development, problem-solving, and team collaboration. I enjoy exploring new technologies, building creative projects, and continuously improving my skills through hands-on experience. My goal is to contribute meaningfully to real-world projects and grow as a professional in the tech industry.
 [_More_](https://personal-portfoilo.theng.studio/)
 
@@ -76,7 +76,7 @@ I'm a passionate and self-motivated **IT engineering** student at **RUPP** with 
 
 
 
-# 💌 Follow and Contact Me 
+# 🪐 Follow and Contact Me 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tangkavtheng@gamil.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tang-kavtheng-3a6b30362)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/na.theng.549)
