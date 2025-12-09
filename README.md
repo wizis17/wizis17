@@ -1,7 +1,7 @@
 ![cover](img/cover2.jpg)
 
 # -忍- Hi I'm ThenG /🪙
-I'm a passionate and self-motivated **IT engineering** student at **RUPP** with a strong interest in software development, problem-solving, and team collaboration. I enjoy exploring new technologies, building creative projects, and continuously improving my skills through hands-on experience. My goal is to contribute meaningfully to real-world projects and grow as a professional in the tech industry.
+I'm a passionate and self-motivated **IT engineering** student at **RUPP** with a strong interest in software development, problem-solving, and team collaboration. I enjoy exploring new technologies, building creative projects, and continuously improving my skills through hands-on experience. My goal is to contribute meaningfully to real-world projects and grow as a professional in the tech industry
 [_More_](https://personal-portfoilo.theng.studio/)
 
 # 💻 Tech Stack
