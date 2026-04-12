@@ -4,11 +4,11 @@
 
 I'm a passionate and self-motivated **IT engineering** student at **RUPP** with a strong interest in software development, problem-solving, and team collaboration. I enjoy exploring new technologies, building creative projects, and continuously improving my skills through hands-on experience. My goal is to contribute meaningfully to real-world projects and grow as a professional in the tech industry.
 
-[→ personal-portfoilo.theng.studio](https://personal-portfoilo.theng.studio/)
+[→ personal-portfoilo.theng.studio](https://personal-portfolio.theng.studio/)
 
 ---
 
-## 💻 Tech Stack
+## 🔥 Tech Stack
 
 **Languages**
 ![JS](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![TS](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat-square&logo=swift&logoColor=white)
@@ -33,17 +33,11 @@ I'm a passionate and self-motivated **IT engineering** student at **RUPP** with 
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
-
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=wizis17&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
-
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizis17&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-
+  <img src="https://streak-stats.demolab.com/?user=wizis17&theme=dark&hide_border=true" />
 </p>
-
-![](https://nirzak-streak-stats.vercel.app/?user=wizis17&theme=dark&hide_border=true)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
